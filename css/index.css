@@ -1,0 +1,22 @@
+.content{
+    position: relative;
+    width:100%;
+    min-height: 100px;
+    height: 500px;
+    border:1px solid rgb(128, 204, 255);
+}
+.group{
+    margin-top: 10px;
+}
+.group .btn{
+    width: 100px;
+    box-shadow: 0 0 3px rgba(2, 43, 70,0.2);
+}
+.group .btn:hover{
+    background: rgb(128, 204, 255);
+    border-color: rgb(128, 204, 255);
+    color:#fff;
+}
+.btn-submit{
+    margin-right: 30px;
+}
